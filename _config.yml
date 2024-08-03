@@ -3,3 +3,14 @@ title: Mustafa Hussein
 #description: IT Project Manager
 #show_downloads: true
 theme: jekyll-theme-cayman
+
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Mustafa Hussein"
+  pronouns         : # example: "she/her"  
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "United Kingdom"
+  employer         : "University of Essex"
+  uri              : # URL
+  email            : "husseinmustafa12@yahoo.com" 
