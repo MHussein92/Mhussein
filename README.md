@@ -7,4 +7,4 @@ University of Essex
 IT Project Mananger
 
 
-# ! [IMG_2171](assets/IMG_2171.JPG)
+! [IMG_2171](assets/IMG_2171.JPG)
