@@ -5,4 +5,6 @@ University of Essex
 
 ### Work Experince
 IT Project Mananger
-# assets/img/IMG_2171.jpg
+
+
+# ! [IMG_2171](assets/img/IMG_2171.jpg
