@@ -1,6 +1,5 @@
 # Mustafa Hussein
-[Info]() 
-Linkedin         : "https://www.linkedin.com/in/mustafa-hussein-391203"
+[Info](Linkedin         : "https://www.linkedin.com/in/mustafa-hussein-391203") 
 ### Education 
 University of Essex
 
