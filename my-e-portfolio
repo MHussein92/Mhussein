@@ -1,9 +1,9 @@
 my-e-portfolio/
 ├── index.html
 ├── about.html
-├── University of Essex.html
-├── skills.html
-├── experience.html
-├── contact.html
+├── university.html
+├── education.html
+├── cv.html
 ├── styles.css
-└── images/  # If you have images to include
+└── images/
+
