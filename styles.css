@@ -45,6 +45,14 @@ section {
     padding: 20px;
 }
 
+.profile-pic {
+    display: block;
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
