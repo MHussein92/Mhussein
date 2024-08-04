@@ -2,7 +2,7 @@
 Info 
 [Linkedin](https://uk.linkedin.com/in/mustafa-hussein-391203174?trk=people-guest_people_search-card)
 ### Education 
-(buton)(A) University of Essex (a/)
+
 
 ### Work Experince
 IT Project Mananger
