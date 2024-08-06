@@ -1,7 +1,7 @@
 /* Apply the background image to the entire body */
 body {
     font-family: Arial, sans-serif;
-    background: url('images/background.jpg') no-repeat center center fixed;
+    background: url('assets/background.jpg') no-repeat center center fixed;
     background-size: cover; /* Ensures the image covers the entire page */
     color: #333;
     margin: 0;
