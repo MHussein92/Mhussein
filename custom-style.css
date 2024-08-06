@@ -3,6 +3,8 @@ body {
     font-family: Arial, sans-serif;
     background: url('assets/background.jpg') no-repeat center center fixed;
     background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
     color: #333;
     margin: 0;
     padding: 0;
