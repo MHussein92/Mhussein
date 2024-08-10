@@ -1,42 +1,61 @@
-/* Global styles: remove any background colors */
 body {
-    background-color: transparent; /* Ensure the background is transparent */
-    color: #333333; /* Text color: dark gray */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-/* Headers text color */
-h1, h2, h3, h4, h5, h6 {
-    color: #007BFF; /* Blue text color */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
 }
 
-/* Paragraphs text color */
-p {
-    color: #555555; /* Medium gray text color */
+nav ul {
+    list-style: none;
+    padding: 0;
+    background: #444;
+    text-align: center;
 }
 
-/* Links text color */
-a {
-    color: #FF5733; /* Orange text color */
-    text-decoration: none; /* Optional: Remove underline from links */
+nav ul li {
+    display: inline;
 }
 
-a:hover {
-    color: #C70039; /* Darker red text color when hovered */
+nav ul li a {
+    color: #fff;
+    padding: 15px 20px;
+    display: inline-block;
+    text-decoration: none;
 }
 
-/* Ensure all sections are transparent */
+nav ul li a:hover {
+    background: #555;
+}
+
+main {
+    padding: 20px;
+}
+
 section {
-    background-color: transparent; /* No background color */
+    margin: 10px 0;
+    background: #fff;
+    padding: 20px;
 }
 
-/* Footer text color */
+.profile-pic {
+    display: block;
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+
 footer {
-    color: #333333; /* Footer text color */
-    background-color: transparent; /* Ensure footer has no background color */
-}
-
-/* Custom styles for specific elements, if needed */
-.main-section {
-    background-color: transparent; /* Ensure transparency */
-    color: #4CAF50; /* Green text color for specific section */
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #fff;
 }
