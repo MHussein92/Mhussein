@@ -23,6 +23,7 @@ nav ul {
 nav ul li {
     display: inline;
 }
+<link rel="stylesheet" href="../../css/styles.css">
 
 nav ul li a {
     color: #fff;
